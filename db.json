@@ -24,7 +24,8 @@
     "total_users": 2,
     "total_groups": 0,
     "total_songs_played": 0,
-    "bot_start_time": "2025-01-01T00:00:00.000Z"
+    "bot_start_time": "2025-01-01T00:00:00.000Z",
+    "maintenance": true
   },
   "queues": {
     "6976551745": [
