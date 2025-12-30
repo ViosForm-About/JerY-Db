@@ -8,11 +8,20 @@
       "join_date": "2025-12-30T08:41:31.577Z",
       "message_count": 5,
       "last_active": "2025-12-30T08:43:45.521Z"
+    },
+    "6976551745": {
+      "id": 6976551745,
+      "username": "suryakit12",
+      "first_name": "PiosPed",
+      "last_name": "",
+      "join_date": "2025-12-30T08:44:48.600Z",
+      "message_count": 0,
+      "last_active": "2025-12-30T08:44:48.600Z"
     }
   },
   "groups": {},
   "settings": {
-    "total_users": 1,
+    "total_users": 2,
     "total_groups": 0,
     "total_songs_played": 0,
     "bot_start_time": "2025-01-01T00:00:00.000Z"
